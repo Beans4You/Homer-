@@ -1,6 +1,4 @@
 # Homer-
-Class exercise 
 ##Hello World!
-
-
+Class exercise 
 
